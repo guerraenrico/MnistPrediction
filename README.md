@@ -1,2 +1,2 @@
 # MnistPrediction
-## Test ML with Tensorflow
+## Test ML with TensorFlow
