@@ -1,0 +1,1 @@
+cartella creata solo per creare l'immagine di docker per eseguire il serving
